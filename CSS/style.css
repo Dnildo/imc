@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(8deg,  red 50%, yellow 8% 49%);
+}
+#form{
+    margin-top: 0%;
+    margin-left: 40%;
+    color:rgb(77, 157, 226);
+}
+
+h2{
+    background:linear-gradient(30deg, rgb(134, 134, 158) 0 50%, rgb(201, 187, 187) 10% 100%) ;
+   margin-top: -33%;
+    margin-left: 37%;
+    padding: 1%;
+width: 30%;
+    box-shadow: 2px 4px 3px 2px #161212;
+}
+h3{
+    background:linear-gradient(30deg, rgb(98, 98, 177) 0 50%, rgb(103, 55, 55) 10% 100%) ;
+margin-left: 38%;
+    padding: 1%;
+width: 20%;
+    box-shadow: 2px 4px 3px 2px #161212;
+}
+
+#p3{
+    width: 10%;
+    height: 20em;
+    margin-top: -15%;
+    margin-bottom: -75%;
+    margin-left: -1%;
+
+    
+    background-color: #161212;
+border-radius: 100em 0em 100em  0;
+}
+
+#p4{
+    width: 40%;
+    height: 20em;
+    margin-top: 98%;
+    margin-bottom: -74%;
+    margin-left: 80%;
+
+    
+    background-color: #161212;
+border-radius: 100em 0em 100em  0;
+}
+
+#p5{
+    width: 40%;
+    height: 20em;
+    margin-top: 55%;
+    margin-bottom: -114%;
+    margin-left: -29%;
+    
+padding-top: -4%;
+    
+    background-color: #161212;
+border-radius: 0em 100em 100em  100em;
+}
+
+#p6{ width: 40%;
+    height: 20em;
+    margin-top: 38%;
+    margin-bottom: 28%;
+    margin-left: 85%;
+    
+padding-top: -4%;
+    
+    background-color: #161212;
+border-radius: 0em 100em 100em  100em;
+
+}
